@@ -1,0 +1,15 @@
+.sidebar {
+  display: inline-block;
+  width: 40%;
+  float: left;
+  border: 1px solid blue;
+  margin-right: 10px;
+  padding: 10px;
+}
+.output {
+  display: inline-block;
+  width: 55%;
+  float: left;
+  border: 1px dotted blue;
+  padding: 10px;
+}
