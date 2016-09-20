@@ -11,6 +11,7 @@ import { BubbleSortingComponent } from './bubble-sorting/bubble-sorting.componen
 import { ShakeSortingComponent } from './shake-sorting/shake-sorting.component';
 import { HomeComponent } from './home/home.component';
 import routes from "./routes";
+import { OddOddSortingComponent } from './odd-odd-sorting/odd-odd-sorting.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import routes from "./routes";
     SillySortingComponent,
     BubbleSortingComponent,
     ShakeSortingComponent,
-    HomeComponent
+    HomeComponent,
+    OddOddSortingComponent
   ],
   imports: [
     BrowserModule,
